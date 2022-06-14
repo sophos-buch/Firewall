@@ -1,0 +1,15 @@
+<Request>
+  <Login>
+    <Username>api</Username>
+    <Password passwordform="encrypt">10907BFE25[...]</Password>
+  </Login>
+  <Set operation="add">
+    <NetFlowConfiguration>
+      <Server>			
+        <ServerName>labsrv</ServerName>
+        <NetflowServer>10.5.1.7</NetflowServer>
+        <NetflowServerPort>2055</NetflowServerPort>
+      </Server>
+    </NetFlowConfiguration>
+  </Set>
+</Request>

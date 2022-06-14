@@ -1,0 +1,10 @@
+#!/usr/bin/expect -f
+spawn ssh fw-1.sophos.lab -l admin
+expect "Select Menu Number \\\[0-7\\\]:"
+send "5\r"
+expect "Select Menu Number \\\[0-4\\\]:"
+send "3\r"
+expect "SF*?SFOS"
+send "/bin/backup-dropbox.sh\r"
+expect eof
+exit
