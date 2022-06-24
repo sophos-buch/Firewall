@@ -29,7 +29,7 @@ Fast alle Kapitel benutzen denselben Netzaufbau und die gleichen IPv4/IPv6-Adres
 
 * Das [Korrekturverzeichnis](errata.pdf) listet die inhaltlichen Fehler und ihre Verbesserung.
 
-* Buch kaufen bei Amazon oder [BoD](https://www.bod.de/buchshop/einstieg-in-die-sophos-firewall-markus-stubbig-9783756225903)
+* Buch kaufen bei [Amazon](https://www.amazon.de/-/de/Markus-Stubbig/dp/3756225909/) oder [BoD](https://www.bod.de/buchshop/einstieg-in-die-sophos-firewall-markus-stubbig-9783756225903)
 
 * Kontakt zum Autor per [E-Mail](mailto:sophos.buch@gmail.com)
 
